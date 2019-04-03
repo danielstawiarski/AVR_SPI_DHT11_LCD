@@ -1,2 +1,2 @@
 # AVR_SPI_DHT11_LCD
-This project concerns to communication using  SPI interface between two microcontrollers. One of them get data from temperature sensor DHT 11, second display this data at LCD (2x16).
+This project concerns to communication using  SPI interface between two microcontrollers. One of them periodically obtains data from temperature sensor (DHT 11). Second one displays retreived data on LCD screen(2x16).
